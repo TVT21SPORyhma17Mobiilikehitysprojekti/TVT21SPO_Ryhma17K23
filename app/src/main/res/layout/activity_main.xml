@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/tumma">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ELÄINHELPPI"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="178dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="319dp"
+        android:layout_height="146dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="sans-serif-light"
+        android:text="Sovellus, joka auttaa lemmikkien omistajia. Apista löytää apua arkeen lemmikkien kanssa hädässä ja jokapäiväisissä tapahtumissa."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="291dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
