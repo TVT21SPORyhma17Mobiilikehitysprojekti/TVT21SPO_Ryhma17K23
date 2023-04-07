@@ -1909,9 +1909,6 @@ int color primary_text_default_material_dark 0x7f05026c
 int color primary_text_default_material_light 0x7f05026d
 int color primary_text_disabled_material_dark 0x7f05026e
 int color primary_text_disabled_material_light 0x7f05026f
-int color purple_200 0x7f050270
-int color purple_500 0x7f050271
-int color purple_700 0x7f050272
 int color ripple_material_dark 0x7f050273
 int color ripple_material_light 0x7f050274
 int color secondary_text_default_material_dark 0x7f050275
@@ -1924,8 +1921,6 @@ int color switch_thumb_material_dark 0x7f05027b
 int color switch_thumb_material_light 0x7f05027c
 int color switch_thumb_normal_material_dark 0x7f05027d
 int color switch_thumb_normal_material_light 0x7f05027e
-int color teal_200 0x7f05027f
-int color teal_700 0x7f050280
 int color tooltip_background_dark 0x7f050281
 int color tooltip_background_light 0x7f050282
 int color tumma 0x7f050283
@@ -2718,6 +2713,7 @@ int drawable abc_textfield_search_material 0x7f070076
 int drawable abc_vector_test 0x7f070077
 int drawable avd_hide_password 0x7f070078
 int drawable avd_show_password 0x7f070079
+int drawable backbutton 0x7f0700e3
 int drawable btn_checkbox_checked_mtrl 0x7f07007a
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f07007b
 int drawable btn_checkbox_unchecked_mtrl 0x7f07007c
@@ -2745,7 +2741,8 @@ int drawable ic_mtrl_chip_checked_black 0x7f070091
 int drawable ic_mtrl_chip_checked_circle 0x7f070092
 int drawable ic_mtrl_chip_close_circle 0x7f070093
 int drawable ic_search_black_24 0x7f070094
-int drawable kisa 0x7f070095
+int drawable jade_edited3 0x7f0700e4
+int drawable kissa 0x7f0700e7
 int drawable koira 0x7f070096
 int drawable m3_appbar_background 0x7f070097
 int drawable m3_avd_hide_password 0x7f070098
@@ -2769,6 +2766,7 @@ int drawable material_ic_keyboard_arrow_previous_black_24dp 0x7f0700a9
 int drawable material_ic_keyboard_arrow_right_black_24dp 0x7f0700aa
 int drawable material_ic_menu_arrow_down_black_24dp 0x7f0700ab
 int drawable material_ic_menu_arrow_up_black_24dp 0x7f0700ac
+int drawable menubutton 0x7f0700e5
 int drawable mtrl_bottomsheet_drag_handle 0x7f0700ad
 int drawable mtrl_checkbox_button 0x7f0700ae
 int drawable mtrl_checkbox_button_checked_unchecked 0x7f0700af
@@ -2807,6 +2805,7 @@ int drawable mtrl_switch_track 0x7f0700cf
 int drawable mtrl_switch_track_decoration 0x7f0700d0
 int drawable mtrl_tabs_default_indicator 0x7f0700d1
 int drawable navigation_empty_icon 0x7f0700d2
+int drawable nextbutton 0x7f0700e6
 int drawable notification_action_background 0x7f0700d3
 int drawable notification_bg 0x7f0700d4
 int drawable notification_bg_low 0x7f0700d5
@@ -2925,11 +2924,18 @@ int id bounce 0x7f080062
 int id bounceBoth 0x7f080063
 int id bounceEnd 0x7f080064
 int id bounceStart 0x7f080065
+int id buBack 0x7f0801fb
+int id buFoodGP 0x7f0801fc
+int id buHousingGP 0x7f0801fd
+int id buMenu2 0x7f0801fe
+int id buNailsGP 0x7f0801ff
+int id buSoundsGP 0x7f080200
 int id buttonPanel 0x7f080066
 int id cache_measures 0x7f080067
 int id callMeasure 0x7f080068
 int id cancel_button 0x7f080069
 int id carryVelocity 0x7f08006a
+int id catIB 0x7f080203
 int id center 0x7f08006b
 int id centerCrop 0x7f08006c
 int id centerInside 0x7f08006d
@@ -2986,6 +2992,7 @@ int id disableIntraAutoTransition 0x7f08009f
 int id disablePostScroll 0x7f0800a0
 int id disableScroll 0x7f0800a1
 int id disjoint 0x7f0800a2
+int id dogIB 0x7f080204
 int id dragAnticlockwise 0x7f0800a3
 int id dragClockwise 0x7f0800a4
 int id dragDown 0x7f0800a5
@@ -3034,6 +3041,7 @@ int id graph_wrap 0x7f0800cf
 int id group_divider 0x7f0800d0
 int id grouping 0x7f0800d1
 int id groups 0x7f0800d2
+int id guineapigIB 0x7f080205
 int id header_title 0x7f0800d3
 int id hideable 0x7f0800d4
 int id home 0x7f0800d5
@@ -3047,9 +3055,7 @@ int id ifRoom 0x7f0800dc
 int id ignore 0x7f0800dd
 int id ignoreRequest 0x7f0800de
 int id image 0x7f0800df
-int id imageView 0x7f0800e0
-int id imageView2 0x7f0800e1
-int id imageView3 0x7f0800e2
+int id imageView4 0x7f080201
 int id immediateStop 0x7f0800e3
 int id included 0x7f0800e4
 int id indeterminate 0x7f0800e5
@@ -3306,6 +3312,7 @@ int id transition_position 0x7f0801df
 int id transition_scene_layoutid_cache 0x7f0801e0
 int id transition_transform 0x7f0801e1
 int id triangle 0x7f0801e2
+int id tvMarsut 0x7f080202
 int id unchecked 0x7f0801e3
 int id uniform 0x7f0801e4
 int id unlabeled 0x7f0801e5
@@ -3436,6 +3443,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_guineapig 0x7f0b006a
 int layout activity_main 0x7f0b001c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e

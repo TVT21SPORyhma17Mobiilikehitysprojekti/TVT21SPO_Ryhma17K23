@@ -68,7 +68,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="backButton" />
+                                      <entry key="outputName" value="backbutton" />
                                     </map>
                                   </option>
                                 </PersistentState>

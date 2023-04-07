@@ -27,6 +27,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Elainhelp" >
         <activity
+            android:name="com.example.elainhelp.activity_guineapig"
+            android:exported="false" />
+        <activity
             android:name="com.example.elainhelp.MainActivity"
             android:exported="true" >
             <intent-filter>

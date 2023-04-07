@@ -1,90 +1,166 @@
 [
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_backbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_backbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_kisa.PNG.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\kisa.PNG"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_jade_edited3.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\jade_edited3.png"
+    },
+    {
+        "merged": "com.example.elainhelp.app-merged_res-30:/drawable_kissa.PNG.flat",
+        "source": "com.example.elainhelp.app-main-32:/drawable/kissa.PNG"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\menubutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_marsu.jpg.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\marsu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_backbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_nextbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\nextbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\menubutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_backbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_nextbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\nextbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\menubutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_nextbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\nextbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\menubutton.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_main.xml"
     },
     {
         "merged": "com.example.elainhelp.app-merged_res-30:/layout_activity_main.xml.flat",
         "source": "com.example.elainhelp.app-main-32:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/drawable_marsu.jpg.flat",
-        "source": "com.example.elainhelp.app-main-32:/drawable/marsu.jpg"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_nextbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\nextbutton.png"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/drawable_kisa.PNG.flat",
-        "source": "com.example.elainhelp.app-main-32:/drawable/kisa.PNG"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_koira.jpg.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\koira.jpg"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_guineapig.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_guineapig.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/drawable_rounded_corners.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/drawable/rounded_corners.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\rounded_corners.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_backbutton.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\backbutton.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/drawable_koira.jpg.flat",
-        "source": "com.example.elainhelp.app-main-32:/drawable/koira.jpg"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/xml_backup_rules.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_nextbutton.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\nextbutton.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-anydpi-v33/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.elainhelp.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_menubutton.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\menubutton.xml"
     }
 ]

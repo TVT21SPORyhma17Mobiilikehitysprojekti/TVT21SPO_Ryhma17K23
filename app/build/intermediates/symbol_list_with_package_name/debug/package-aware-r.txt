@@ -1910,9 +1910,6 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
-color purple_200
-color purple_500
-color purple_700
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -1925,8 +1922,6 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
-color teal_200
-color teal_700
 color tooltip_background_dark
 color tooltip_background_light
 color tumma
@@ -2719,6 +2714,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable backbutton
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2746,7 +2742,8 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
-drawable kisa
+drawable jade_edited3
+drawable kissa
 drawable koira
 drawable m3_appbar_background
 drawable m3_avd_hide_password
@@ -2770,6 +2767,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable menubutton
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -2808,6 +2806,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable nextbutton
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2926,11 +2925,18 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id buBack
+id buFoodGP
+id buHousingGP
+id buMenu2
+id buNailsGP
+id buSoundsGP
 id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
 id carryVelocity
+id catIB
 id center
 id centerCrop
 id centerInside
@@ -2987,6 +2993,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id dogIB
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3035,6 +3042,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id guineapigIB
 id header_title
 id hideable
 id home
@@ -3048,9 +3056,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
-id imageView2
-id imageView3
+id imageView4
 id immediateStop
 id included
 id indeterminate
@@ -3307,6 +3313,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvMarsut
 id unchecked
 id uniform
 id unlabeled
@@ -3437,6 +3444,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_guineapig
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
