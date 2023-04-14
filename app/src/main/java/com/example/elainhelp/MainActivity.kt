@@ -14,10 +14,10 @@ class MainActivity : AppCompatActivity() {
         val guineapig = findViewById<ImageButton>(R.id.guineapigIB)
         val dog = findViewById<ImageButton>(R.id.dogIB)
         val cat = findViewById<ImageButton>(R.id.catIB)
+        guineapig.setOnClickListener {
+            val intent = Intent(this, activity_guineapig::class.java)
+            startActivity(intent)
+        }
+    }
 
-    }
-    fun onClick(view: View?) {
-        val intent = Intent(this, activity_guineapig::class.java)
-    startActivity(intent);
-    }
 }

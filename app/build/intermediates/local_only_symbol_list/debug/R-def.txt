@@ -4,7 +4,6 @@ color black
 color tumma
 color turkoosi
 color white
-drawable backbutton
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable jade_edited3
@@ -12,7 +11,6 @@ drawable kissa
 drawable koira
 drawable marsu
 drawable menubutton
-drawable nextbutton
 drawable rounded_corners
 id buBack
 id buFoodGP
