@@ -27,6 +27,42 @@
         android:testOnly="true"
         android:theme="@style/Theme.Elainhelp" >
         <activity
+            android:name="com.example.elainhelp.activity_CatSocial"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_CatTeethClaws"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_CatFood"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_DogSocial"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_DogExercise"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_DogFood"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_cat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_dog"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_GpHousing"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_GpFood"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_GpNails"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_guineapig"
+            android:exported="false" />
+        <activity
             android:name="com.example.elainhelp.MainActivity"
             android:exported="true" >
             <intent-filter>

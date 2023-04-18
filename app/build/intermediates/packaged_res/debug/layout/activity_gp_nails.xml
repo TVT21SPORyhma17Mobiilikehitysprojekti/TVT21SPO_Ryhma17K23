@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3C3F41"
+    tools:context=".activity_GpNails">
+
+    <TextView
+        android:id="@+id/MarsuKynnetOtsikkoTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Kynsien leikkaaminen"
+        android:textColor="#3ADAE4"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/MarsuKynnetTv"
+        android:layout_width="365dp"
+        android:layout_height="299dp"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="sans-serif-light"
+        android:text="Marsujen kynnet voi leikata joko jyrsijöille tarkoitetuilla kynsisaksilla tai esim. kissojen tai pienien koirien kynsisaksilla. Kynnet olisi hyvä leikata pääsääntöisesti n. kahden viikon välein, aikaväli on kuitenkin yksilöllinen. Siihen voi vaikuttaa esimerkiksi marsun ikä, sillä vanhemmilla marsuilla kynnet kasvavat hitaammin. Marsun kynnen sisällä kulkee verisuoni, jota kutsutaan verikynneksi. Sitä tulee varoa kynsiä leikatessa, sillä se on herkkä kohta ja marsuun sattuu, jos sen päältä vahingossa leikkaa. Paras tapa on leikata kynsiä suhteellisen useasti ja vähän kerrallaan."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/GpNailsImgv" />
+
+    <ImageView
+        android:id="@+id/GpNailsImgv"
+        android:layout_width="275dp"
+        android:layout_height="185dp"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/MarsuKynnetOtsikkoTv"
+        app:srcCompat="@drawable/img" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
