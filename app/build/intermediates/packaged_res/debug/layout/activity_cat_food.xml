@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tumma"
+    tools:context=".activity_CatFood">
+
+    <TextView
+        android:id="@+id/kissaRuokintaTv"
+        android:layout_width="365dp"
+        android:layout_height="290dp"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="sans-serif-light"
+        android:text="Marsujen pääsääntöinen ruokavalio koostuu heinästä, vedestä ja pelletistä. Lisäksi marsuille voi antaa tuoreita kasviksia, kuten salaattia, tomaattia, kurkkua, paprikaa, persiljaa jne.   Ruuan lisäksi toinen elintärkeä ehto marsuille on c-vitamiinin saanti, sillä ne eivät voi tuottaa sitä itse. Erilaisia c-vitamiinijauheita myydään markkinoilla, ja niitä annetaan marsuille esimerkiksi kurkun päälle sirotettuna päivittäin.  Marsut ovat kasvissyöjiä, joten kaikki eläinperäinen on vaarallista niille."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <TextView
+        android:id="@+id/kissaRuokintaOtsikkoTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Ruokinta"
+        android:textColor="#3ADAE4"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="320dp"
+        android:layout_height="220dp"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kissaRuokintaOtsikkoTv"
+        app:srcCompat="@drawable/img_9" />
+</androidx.constraintlayout.widget.ConstraintLayout>
