@@ -13,7 +13,7 @@ class activity_dog : AppCompatActivity() {
         val foodDogBtn = findViewById<Button>(R.id.buFeedingDog)
         val exerciseDogBtn = findViewById<Button>(R.id.buExerciseDog)
         val socialDogBtn = findViewById<Button>(R.id.buSocialDog)
-
+        val buMenuDog = findViewById<Button>(R.id.buMenuDog)
 
         foodDogBtn.setOnClickListener {
             val intent = Intent(this, activity_DogFood::class.java)
@@ -26,6 +26,11 @@ class activity_dog : AppCompatActivity() {
         socialDogBtn.setOnClickListener {
             val intent = Intent(this, activity_DogSocial::class.java)
             startActivity(intent)
+        }
+        buMenuDog.setOnClickListener {
+            val intent = Intent(this, ActivityMenu::class.java)
+            startActivity(intent)
+
         }
     }
 }
