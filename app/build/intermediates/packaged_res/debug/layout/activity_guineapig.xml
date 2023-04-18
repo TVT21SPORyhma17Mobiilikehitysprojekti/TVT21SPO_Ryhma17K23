@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity_guineapig"
-    android:background="@color/tumma">
+    android:background="@color/tumma"
+    tools:context=".activity_guineapig">
 
     <Button
         android:id="@+id/buSoundsGP"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/rounded_corners"
 
@@ -25,8 +25,8 @@
 
     <Button
         android:id="@+id/buHousingGP"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/rounded_corners"
 
@@ -65,8 +65,8 @@
 
     <Button
         android:id="@+id/buNailsGP"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
         android:layout_marginTop="10dp"
         android:background="@drawable/rounded_corners"
 
@@ -81,8 +81,8 @@
 
     <Button
         android:id="@+id/buFoodGP"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/rounded_corners"
 
@@ -96,31 +96,18 @@
         app:layout_constraintTop_toBottomOf="@+id/buNailsGP" />
 
     <Button
-        android:id="@+id/buMenu2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="30dp"
-        android:layout_marginBottom="30dp"
-        android:background="@drawable/rounded_corners"
-
-        android:text="Takaisin"
-        android:textColor="#000000"
-        app:iconTint="#000000"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-
-    <Button
         android:id="@+id/buBack"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="30dp"
-        android:layout_marginBottom="30dp"
+        android:layout_marginTop="24dp"
         android:background="@drawable/rounded_corners"
         android:drawableRight="@drawable/menubutton"
         android:text="Valikko"
         android:textColor="#000000"
         app:iconTint="#000000"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buSoundsGP" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
