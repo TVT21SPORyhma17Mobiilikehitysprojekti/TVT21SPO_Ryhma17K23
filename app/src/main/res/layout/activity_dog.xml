@@ -20,10 +20,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buSoundsCat" />
+        app:layout_constraintTop_toBottomOf="@+id/buSoundsDog" />
 
     <Button
-        android:id="@+id/buSoundsCat"
+        android:id="@+id/buSoundsDog"
         android:layout_width="200dp"
         android:layout_height="50dp"
 
@@ -36,10 +36,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buSocialCat" />
+        app:layout_constraintTop_toBottomOf="@+id/buSocialDog" />
 
     <Button
-        android:id="@+id/buSocialCat"
+        android:id="@+id/buSocialDog"
         android:layout_width="200dp"
         android:layout_height="50dp"
 
@@ -51,10 +51,10 @@
         app:iconTint="#000000"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buKynnetjaHampaatCat" />
+        app:layout_constraintTop_toBottomOf="@+id/buExerciseDog" />
 
     <Button
-        android:id="@+id/buKynnetjaHampaatCat"
+        android:id="@+id/buExerciseDog"
         android:layout_width="200dp"
         android:layout_height="50dp"
         android:layout_marginTop="20dp"
@@ -67,10 +67,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buFeedingCat" />
+        app:layout_constraintTop_toBottomOf="@+id/buFeedingDog" />
 
     <Button
-        android:id="@+id/buFeedingCat"
+        android:id="@+id/buFeedingDog"
         android:layout_width="200dp"
         android:layout_height="50dp"
         android:layout_marginTop="20dp"

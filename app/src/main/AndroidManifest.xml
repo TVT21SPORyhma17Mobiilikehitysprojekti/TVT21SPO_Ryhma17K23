@@ -12,6 +12,24 @@
         android:theme="@style/Theme.Elainhelp"
         tools:targetApi="31">
         <activity
+            android:name=".activity_CatSocial"
+            android:exported="false" />
+        <activity
+            android:name=".activity_CatTeethClaws"
+            android:exported="false" />
+        <activity
+            android:name=".activity_CatFood"
+            android:exported="false" />
+        <activity
+            android:name=".activity_DogSocial"
+            android:exported="false" />
+        <activity
+            android:name=".activity_DogExercise"
+            android:exported="false" />
+        <activity
+            android:name=".activity_DogFood"
+            android:exported="false" />
+        <activity
             android:name=".activity_cat"
             android:exported="false" />
         <activity
