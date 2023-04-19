@@ -96,7 +96,7 @@
         app:layout_constraintTop_toBottomOf="@+id/buNailsGP" />
 
     <Button
-        android:id="@+id/buBack"
+        android:id="@+id/buMenuGp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"

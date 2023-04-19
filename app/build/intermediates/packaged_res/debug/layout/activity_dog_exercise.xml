@@ -9,16 +9,17 @@
 
     <TextView
         android:id="@+id/koiraLiikuntaTv"
-        android:layout_width="365dp"
-        android:layout_height="290dp"
-        android:layout_marginTop="52dp"
+        android:layout_width="376dp"
+        android:layout_height="434dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/rounded_corners"
         android:fontFamily="sans-serif-light"
-        android:text="Marsujen pääsääntöinen ruokavalio koostuu heinästä, vedestä ja pelletistä. Lisäksi marsuille voi antaa tuoreita kasviksia, kuten salaattia, tomaattia, kurkkua, paprikaa, persiljaa jne.   Ruuan lisäksi toinen elintärkeä ehto marsuille on c-vitamiinin saanti, sillä ne eivät voi tuottaa sitä itse. Erilaisia c-vitamiinijauheita myydään markkinoilla, ja niitä annetaan marsuille esimerkiksi kurkun päälle sirotettuna päivittäin.  Marsut ovat kasvissyöjiä, joten kaikki eläinperäinen on vaarallista niille."
+        android:text="Säännöllinen liikunta on tärkeää koirasi fyysisen terveyden ylläpitämiseksi, henkiseksi stimulaatioksi ja käyttäytymisongelmien ehkäisemiseksi. Tarvittava harjoitustyyppi ja määrä riippuvat koiran iästä, rodusta ja aktiivisuustasosta. Yleensä useimmat koirat tarvitsevat vähintään 30 minuutista yhteen tuntiin liikuntaa päivässä, mutta jotkut rodut voivat vaatia enemmänkin. Harjoittelu voi olla monentyyppistä, esim. kävelyä, juoksemista, noutamista, uimista tai vaellusta. Liikunta ei ainoastaan auta koiria pysymään fyysisesti kunnossa, vaan myös edistää hyvää käyttäytymistä vähentämällä stressiä, ahdistusta ja paikkojen tuhoamista. Huomionarvoista on, että koiraa ei saa harjoittaa liian voimakkaasti, etenkään kuumalla tai kostealla säällä, koska ne ovat alttiita lämpöhalvaukselle. Varmista aina, että koirallasi on runsaasti vettä, ja pidä usein taukoja harjoitusten aikana."
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/KoiraLiikuntaImage" />
 
@@ -38,8 +39,8 @@
 
     <ImageView
         android:id="@+id/KoiraLiikuntaImage"
-        android:layout_width="320dp"
-        android:layout_height="220dp"
+        android:layout_width="288dp"
+        android:layout_height="169dp"
         android:layout_marginTop="24dp"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"

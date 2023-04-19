@@ -9,16 +9,17 @@
 
     <TextView
         android:id="@+id/koiraRuokintaTv"
-        android:layout_width="365dp"
-        android:layout_height="290dp"
-        android:layout_marginTop="52dp"
+        android:layout_width="374dp"
+        android:layout_height="430dp"
+        android:layout_marginTop="15dp"
         android:background="@drawable/rounded_corners"
         android:fontFamily="sans-serif-light"
-        android:text="Marsujen pääsääntöinen ruokavalio koostuu heinästä, vedestä ja pelletistä. Lisäksi marsuille voi antaa tuoreita kasviksia, kuten salaattia, tomaattia, kurkkua, paprikaa, persiljaa jne.   Ruuan lisäksi toinen elintärkeä ehto marsuille on c-vitamiinin saanti, sillä ne eivät voi tuottaa sitä itse. Erilaisia c-vitamiinijauheita myydään markkinoilla, ja niitä annetaan marsuille esimerkiksi kurkun päälle sirotettuna päivittäin.  Marsut ovat kasvissyöjiä, joten kaikki eläinperäinen on vaarallista niille."
+        android:text="Koirat ovat kaikkiruokaisia, eli ne tarvitsevat tasapainoisen ruokavalion, joka sisältää sekä eläin- sekä kasviperäisiä ruokia. Proteiini on tärkeää: Koirat tarvitsevat laadukkaan proteiinin lähteen ruokavaliossaan ylläpitääkseen lihaksia ja terveitä kudoksia. Hyviä proteiinin lähteitä koirille ovat liha, kala, kananmunat ja jotkin kasvikset. Hiilihydraatit ovat myös tärkeitä: Koirat tarvitsevat ruokavaliossaan joitain hiilihydraatteja energian saamiseksi. Hyviä hiilihydraattilähteitä koirille ovat viljat, vihannekset ja hedelmät. Hyviä rasvanlähteitä koirille ovat eläinrasvat, kuten liha- ja maitotuotteissa olevat, sekä kasviperäiset rasvat, kuten pähkinöiden ja siementen rasvat. Koirat tarvitsevat erilaisia vitamiineja ja kivennäisaineita hyvän terveyden ylläpitämiseksi. Nämä voivat tulla luonnostaan tasapainoisen ruokavalion kautta, mutta joissakin tapauksissa lisäravinteet voivat olla tarpeen."
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.636"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/KoiraRuokintaImg" />
 
@@ -38,8 +39,8 @@
 
     <ImageView
         android:id="@+id/KoiraRuokintaImg"
-        android:layout_width="320dp"
-        android:layout_height="220dp"
+        android:layout_width="280dp"
+        android:layout_height="181dp"
         android:layout_marginTop="24dp"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"
