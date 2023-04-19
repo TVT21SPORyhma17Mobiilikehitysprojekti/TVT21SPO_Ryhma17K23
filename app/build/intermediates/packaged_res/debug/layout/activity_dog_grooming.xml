@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3C3F41"
+    tools:context=".activity_dog_grooming">
+
+    <TextView
+        android:id="@+id/koiraSosiaalisuusOtsikkoTv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Turkki ja hoito"
+        android:textColor="#3ADAE4"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/koiraSosiaalisuusTv3"
+        android:layout_width="371dp"
+        android:layout_height="412dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="sans-serif-light"
+        android:text="Hoitoon kuuluu turkin harjaaminen, kynsien leikkaaminen, korvien puhdistaminen, hammashoito ja tarvittaessa kylvyt. Turkin säännöllinen hoito auttaa pitämään sen terveenä sekä kiiltävänä ja vähentää ihoinfektioiden riskiä. Rodusta ja koiran turkin pituudesta riippuen saatat joutua hoitamaan turkkia joka päivä, muutaman päivän välein tai kerran viikossa. Harjaus on olennainen osa, sillä se poistaa turkista likaa, kuolleita karvoja ja takkuja. Käytä koirasi turkkityypille sopivaa harjaa. Pesulla käytä koiralle tarkoitettua shampoota ja huuhtele koirasi huolellisesti. Kynsien leikkaaminen on tärkeää, jotta kynnet eivät kasvaisi liian pitkiksi, sillä ne voivat aiheuttaa terveysongelmia ja epämukavuutta. Korvien puhdistaminen on myös tärkeää, sillä se auttaa estämään infektioita. Käytä koirakohtaista korvanpuhdistusainetta ja vältä pumpulipuikkojen käyttöä."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="306dp"
+        android:layout_height="206dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/koiraSosiaalisuusOtsikkoTv2"
+        app:srcCompat="@drawable/dog_fur" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
