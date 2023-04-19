@@ -50,7 +50,7 @@
 
             android:layout_marginTop="20dp"
             android:background="@drawable/rounded_corners"
-            android:text="Sosiaalisuus"
+            android:text="Liikunta"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
@@ -65,7 +65,7 @@
             android:layout_marginTop="20dp"
 
             android:background="@drawable/rounded_corners"
-            android:text="Kynnet ja Hampaat"
+            android:text="Turkki ja hoito"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
@@ -81,7 +81,7 @@
 
             android:layout_marginTop="20dp"
             android:background="@drawable/rounded_corners"
-            android:text="Ruokinta"
+            android:text="Ravitsemus"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
