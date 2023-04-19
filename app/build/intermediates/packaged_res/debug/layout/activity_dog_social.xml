@@ -9,16 +9,17 @@
 
     <TextView
         android:id="@+id/koiraSosiaalisuusTv"
-        android:layout_width="365dp"
-        android:layout_height="290dp"
-        android:layout_marginTop="52dp"
+        android:layout_width="378dp"
+        android:layout_height="428dp"
+        android:layout_marginTop="16dp"
         android:background="@drawable/rounded_corners"
         android:fontFamily="sans-serif-light"
-        android:text="Marsujen pääsääntöinen ruokavalio koostuu heinästä, vedestä ja pelletistä. Lisäksi marsuille voi antaa tuoreita kasviksia, kuten salaattia, tomaattia, kurkkua, paprikaa, persiljaa jne.   Ruuan lisäksi toinen elintärkeä ehto marsuille on c-vitamiinin saanti, sillä ne eivät voi tuottaa sitä itse. Erilaisia c-vitamiinijauheita myydään markkinoilla, ja niitä annetaan marsuille esimerkiksi kurkun päälle sirotettuna päivittäin.  Marsut ovat kasvissyöjiä, joten kaikki eläinperäinen on vaarallista niille."
+        android:text="Koulutus ja sosialisointi ovat välttämättömiä, jotta koira olisi onnellinen. Kouluttamiseen kuuluu tottelevaisuuden ja hyvän käytöksen opettaminen sekä sosialisointimahdollisuuksien tarjoaminen. Pennut ovat vastaanottavaisempia uusille kokemuksille ja oppimiselle 3–14 viikon iässä, joten on tärkeää aloittaa koiranpennun koulutus heti, kun mahdollista. Käytä positiivisia vahvistustekniikoita, kuten herkkuja, kehuja ja leikkimistä palkitsemaan hyvästä käytöksestä. Käytä joka kerta samoja komentoja ja palkitsemisjärjestelmää, jotta koirasi tietää, mitä siltä odotetaan. Vie koirasi puistoihin, pentutunneille ja muihin sosiaalisiin tilanteisiin. Tämä auttaa koiraa oppimaan vuorovaikusta muiden koirien ja ihmisten kanssa positiivisella tavalla. Ole kärsivällinen koirasi kanssa. Koulutus ja sosiaalistaminen vievät aikaa, ja jokainen koira oppii omaan tahtiinsa. Älä turhaudu, jos koira ei opi jotain heti."
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/KoiraSosiaalinenImg" />
 
@@ -27,7 +28,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
-        android:text="Sosiaalisuus"
+        android:text="Koulutus ja sosiaalisuus"
         android:textColor="#3ADAE4"
         android:textSize="30sp"
         android:textStyle="italic"
@@ -38,8 +39,8 @@
 
     <ImageView
         android:id="@+id/KoiraSosiaalinenImg"
-        android:layout_width="320dp"
-        android:layout_height="220dp"
+        android:layout_width="283dp"
+        android:layout_height="169dp"
         android:layout_marginTop="24dp"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"

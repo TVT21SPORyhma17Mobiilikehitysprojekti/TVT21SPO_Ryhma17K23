@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
-        android:text="Kynnet Ja Hampaat"
+        android:text="Kynnet ja hampaat"
         android:textColor="#3ADAE4"
         android:textSize="30sp"
         android:textStyle="italic"
