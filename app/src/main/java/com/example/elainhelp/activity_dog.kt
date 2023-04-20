@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.ImageView
 
 class activity_dog : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,6 +16,7 @@ class activity_dog : AppCompatActivity() {
         val socialDogBtn = findViewById<Button>(R.id.buSocialDog)
         val groomingBtn = findViewById<Button>(R.id.buGroomingDog)
         val buMenuDog = findViewById<Button>(R.id.buMenuDog)
+        val DogSoundImg = findViewById<ImageView>(R.id.KoiraSoundImg)
 
         foodDogBtn.setOnClickListener {
             val intent = Intent(this, activity_DogFood::class.java)
@@ -34,6 +36,11 @@ class activity_dog : AppCompatActivity() {
         }
         buMenuDog.setOnClickListener {
             val intent = Intent(this, ActivityMenu::class.java)
+            startActivity(intent)
+
+        }
+        DogSoundImg.setOnClickListener {
+            val intent = Intent(this, activity_DogSounds::class.java)
             startActivity(intent)
 
         }
