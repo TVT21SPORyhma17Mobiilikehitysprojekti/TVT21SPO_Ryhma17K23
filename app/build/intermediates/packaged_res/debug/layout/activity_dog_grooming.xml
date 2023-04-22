@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#3C3F41"
+    android:background="@color/tumma"
     tools:context=".activity_dog_grooming">
 
     <TextView
-        android:id="@+id/koiraSosiaalisuusOtsikkoTv2"
+        android:id="@+id/dogGroominglTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
@@ -44,7 +44,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/koiraSosiaalisuusOtsikkoTv2"
+        app:layout_constraintTop_toBottomOf="@+id/dogGroominglTv"
         app:srcCompat="@drawable/dog_fur" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

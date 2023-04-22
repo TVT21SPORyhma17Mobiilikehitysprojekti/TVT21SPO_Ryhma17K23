@@ -13,6 +13,7 @@ class activity_guineapig : AppCompatActivity() {
         val nailGpBtn = findViewById<Button>(R.id.buNailsGP)
         val buFoodGP = findViewById<Button>(R.id.buFoodGP)
         val buHousingGP = findViewById<Button>(R.id.buHousingGP)
+        val buToysGP = findViewById<Button>(R.id.buToysGP)
         val buMenuGP = findViewById<Button>(R.id.buMenuGp)
 
         nailGpBtn.setOnClickListener {
@@ -20,12 +21,16 @@ class activity_guineapig : AppCompatActivity() {
             startActivity(intent)
         }
 
-            buFoodGP.setOnClickListener {
-                val intent = Intent(this, activity_GpFood::class.java)
-                startActivity(intent)
+        buFoodGP.setOnClickListener {
+            val intent = Intent(this, activity_GpFood::class.java)
+            startActivity(intent)
         }
         buHousingGP.setOnClickListener {
             val intent = Intent(this, activity_GpHousing::class.java)
+            startActivity(intent)
+        }
+        buToysGP.setOnClickListener {
+            val intent = Intent(this, ActivityGPToys::class.java)
             startActivity(intent)
         }
         buMenuGP.setOnClickListener {
