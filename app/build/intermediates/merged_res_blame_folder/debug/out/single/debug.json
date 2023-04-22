@@ -1,290 +1,314 @@
 [
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_dogfur.PNG.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\dogfur.PNG"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_dog_food.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_dog_food.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xxhdpi_terms.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xxhdpi\\terms.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_3.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_3.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_7.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_marsu.jpg.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\marsu.jpg"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_cat_social.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_cat_social.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_10.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_10.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_cat_teeth_claws.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_cat_teeth_claws.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_dog_fur.PNG.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\dog_fur.PNG"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_language.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\language.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xhdpi_language.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xhdpi\\language.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_4.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\menubutton.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-mdpi_menubutton.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-mdpi\\menubutton.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_dog_fur.PNG.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\dog_fur.PNG"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_angrydog.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\angrydog.mp3"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_rounded_corners.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\rounded_corners.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\menubutton.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_7.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_7.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-anydpi_menubutton.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-anydpi\\menubutton.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_jade_edited3.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\jade_edited3.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_social.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog_social.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_cat_social.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_cat_social.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-anydpi_language.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-anydpi\\language.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_koira.jpg.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\koira.jpg"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_menu.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_menu.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_4.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_4.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_exercise.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog_exercise.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-anydpi_terms.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-anydpi\\terms.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-hdpi_menubutton.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-hdpi\\menubutton.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_cat_food.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_cat_food.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_theme.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\theme.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xhdpi_menubutton.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xhdpi\\menubutton.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_cat_food.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_cat_food.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xxhdpi_language.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xxhdpi\\language.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_dog.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_dog.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_raapimiskiisu.jpg.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\raapimiskiisu.jpg"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_dog_exercise.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_dog_exercise.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_language.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\language.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_cat.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_cat.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_dogbark.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\dogbark.mp3"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_dogfur.PNG.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\dogfur.PNG"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-hdpi_terms.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-hdpi\\terms.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_dog_social.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_dog_social.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_3.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-hdpi_language.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-hdpi\\language.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_terms.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\terms.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_marsu.jpg.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\marsu.jpg"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_terms.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\terms.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_cat.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_cat.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-mdpi_terms.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-mdpi\\terms.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_terms.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\terms.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_1.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_1.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_11.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_11.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-anydpi_theme.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-anydpi\\theme.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_language.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\language.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xhdpi_theme.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xhdpi\\theme.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xxhdpi_menubutton.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xxhdpi\\menubutton.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_9.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_9.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_sounds.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog_sounds.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_11.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_11.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_koira.jpg.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\koira.jpg"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_12.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_12.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_8.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_8.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_kissa.PNG.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\kissa.PNG"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_language.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\language.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-5:/layout_activity_cat.xml.flat",
-        "source": "com.example.elainhelp.app-main-7:/layout/activity_cat.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_terms.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\terms.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_gp_nails.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_gp_nails.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_2.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_jade_edited3.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\jade_edited3.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_5.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_5.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\menubutton.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_10.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_10.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_6.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_2.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_2.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_environment_cat.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_environment_cat.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_dog_grooming.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_dog_grooming.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_guineapig.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_guineapig.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_menubutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\menubutton.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-hdpi_theme.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-hdpi\\theme.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_9.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_9.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_1.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-mdpi_theme.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-mdpi\\theme.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_grooming.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog_grooming.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_language.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\language.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_gp_nails.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gp_nails.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xxhdpi_theme.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xxhdpi\\theme.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xhdpi_terms.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\terms.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_img_6.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\img_6.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_gp_housing.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gp_housing.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_guineapig.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_guineapig.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-xhdpi_terms.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-xhdpi\\terms.png"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_8.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable_kissa.PNG.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable\\kissa.PNG"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-hdpi_theme.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\theme.png"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_gp_housing.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_gp_housing.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\rounded_corners.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\drawable-mdpi_language.png.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\drawable-mdpi\\language.png"
+        "merged": "com.example.elainhelp.app-merged_res-30:/layout_activity_environment_cat.xml.flat",
+        "source": "com.example.elainhelp.app-main-32:/layout/activity_environment_cat.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\layout_activity_gp_food.xml.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\layout\\activity_gp_food.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_theme.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\theme.xml"
     },
     {
-        "merged": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\samik\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_cat_teeth_claws.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_cat_teeth_claws.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_food.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-mdpi_theme.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\theme.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-xxhdpi_theme.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xxhdpi\\theme.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_gp_food.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gp_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_menubutton.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\menubutton.xml"
     }
 ]

@@ -14,6 +14,7 @@ class activity_cat : AppCompatActivity() {
         val foodCatBtn = findViewById<Button>(R.id.buFeedingCat)
         val teethCatBtn = findViewById<Button>(R.id.buTeethCat)
         val socialCatBtn = findViewById<Button>(R.id.buSocialCat)
+        val environmentCatBtn = findViewById<Button>(R.id.buEnvironmentCat)
         val buMenuCat = findViewById<Button>(R.id.buMenuCat)
 
 
@@ -29,6 +30,11 @@ class activity_cat : AppCompatActivity() {
         }
         socialCatBtn.setOnClickListener {
             val intent = Intent(this, activity_CatSocial::class.java)
+            startActivity(intent)
+
+        }
+        environmentCatBtn.setOnClickListener {
+            val intent = Intent(this, ActivityEnvironmentCat::class.java)
             startActivity(intent)
 
         }
