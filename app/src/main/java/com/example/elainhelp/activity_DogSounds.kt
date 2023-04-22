@@ -13,9 +13,10 @@ class activity_DogSounds : AppCompatActivity() {
 
         val bark = findViewById<Button>(R.id.BarkBtn)
         val barkAngry = findViewById<Button>(R.id.BarkAngryBtn)
+        val whine = findViewById<Button>(R.id.whineBtn)
+        val howl = findViewById<Button>(R.id.howlBtn)
         val stop = findViewById<Button>(R.id.StopBtn)
         var mediaplayer = MediaPlayer()
-        var isSoundPlaying = false
 
 
         bark.setOnClickListener{
@@ -25,6 +26,16 @@ class activity_DogSounds : AppCompatActivity() {
         }
         barkAngry.setOnClickListener {
             mediaplayer.setDataSource(this, Uri.parse("android.resource://" + this.packageName + "/" + R.raw.angrydog))
+            mediaplayer.prepare()
+            mediaplayer.start()
+        }
+        whine.setOnClickListener {
+            mediaplayer.setDataSource(this, Uri.parse("android.resource://" + this.packageName + "/" + R.raw.koiravinku))
+            mediaplayer.prepare()
+            mediaplayer.start()
+        }
+        howl.setOnClickListener {
+            mediaplayer.setDataSource(this, Uri.parse("android.resource://" + this.packageName + "/" + R.raw.koiraulvonta))
             mediaplayer.prepare()
             mediaplayer.start()
         }
