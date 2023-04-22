@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
-INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
-INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
-INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\mil_l\.gradle\caches\transforms-3\5bf45942ca19c8e30bdd0366b1495316\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha09] C:\Users\mil_l\.gradle\caches\transforms-3\aba233b55ec0677e2592b9be7779f56d\transformed\constraintlayout-2.2.0-alpha09\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mil_l\.gradle\caches\transforms-3\32976086dcc2a58bd79b8d5f497e3f55\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -45,27 +45,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mil_l\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mil_l\.gradle\caches\transforms-3\0c762dcd43e00657e4f192a0a2e02fcb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mil_l\.gradle\caches\transforms-3\114327bbf1c6af7593b0a1a8e245bb1a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\mil_l\.gradle\caches\transforms-3\a6089ce1869f340ea741d9b9e92ce46d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
-INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
-INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
 	package
 		INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
 		INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
 		INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-76:12
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-82:12
 		INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:5:5-74:19
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:5:5-80:19
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\mil_l\.gradle\caches\transforms-3\5bf45942ca19c8e30bdd0366b1495316\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\mil_l\.gradle\caches\transforms-3\5bf45942ca19c8e30bdd0366b1495316\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha09] C:\Users\mil_l\.gradle\caches\transforms-3\aba233b55ec0677e2592b9be7779f56d\transformed\constraintlayout-2.2.0-alpha09\AndroidManifest.xml:7:5-20
@@ -100,124 +100,136 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mil_l\.gradle\cach
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:12:9-47
 	android:dataExtractionRules
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.elainhelp.ActivityGPToys
+activity#com.example.elainhelp.ActivityCatSounds
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:15:13-43
-activity#com.example.elainhelp.ActivityEnvironmentCat
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:15:13-46
+activity#com.example.elainhelp.ActivityGPSounds
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:18:13-51
-activity#com.example.elainhelp.activity_DogSounds
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:18:13-45
+activity#com.example.elainhelp.ActivityGPToys
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:21:13-47
-activity#com.example.elainhelp.activity_dog_grooming
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:21:13-43
+activity#com.example.elainhelp.ActivityEnvironmentCat
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:23:9-25:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:24:13-50
-activity#com.example.elainhelp.ActivityMenu
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:24:13-51
+activity#com.example.elainhelp.activity_DogSounds
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:26:9-28:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:27:13-41
-activity#com.example.elainhelp.activity_CatSocial
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:27:13-47
+activity#com.example.elainhelp.activity_dog_grooming
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:29:9-31:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:30:13-47
-activity#com.example.elainhelp.activity_CatTeethClaws
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:30:13-50
+activity#com.example.elainhelp.ActivityMenu
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:32:9-34:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:33:13-51
-activity#com.example.elainhelp.activity_CatFood
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:33:13-41
+activity#com.example.elainhelp.activity_CatSocial
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:35:9-37:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:36:13-45
-activity#com.example.elainhelp.activity_DogSocial
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:36:13-47
+activity#com.example.elainhelp.activity_CatTeethClaws
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:39:13-47
-activity#com.example.elainhelp.activity_DogExercise
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:39:13-51
+activity#com.example.elainhelp.activity_CatFood
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:41:9-43:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:42:13-49
-activity#com.example.elainhelp.activity_DogFood
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:42:13-45
+activity#com.example.elainhelp.activity_DogSocial
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:44:9-46:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:45:13-45
-activity#com.example.elainhelp.activity_cat
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:45:13-47
+activity#com.example.elainhelp.activity_DogExercise
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:47:9-49:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:48:13-41
-activity#com.example.elainhelp.activity_dog
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:48:13-49
+activity#com.example.elainhelp.activity_DogFood
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:50:9-52:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:52:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:51:13-41
-activity#com.example.elainhelp.activity_GpHousing
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:51:13-45
+activity#com.example.elainhelp.activity_cat
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:53:9-55:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:55:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:54:13-47
-activity#com.example.elainhelp.activity_GpFood
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:54:13-41
+activity#com.example.elainhelp.activity_dog
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:56:9-58:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:58:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:57:13-44
-activity#com.example.elainhelp.activity_GpNails
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:57:13-41
+activity#com.example.elainhelp.activity_GpHousing
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:59:9-61:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:61:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:60:13-45
-activity#com.example.elainhelp.activity_guineapig
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:60:13-47
+activity#com.example.elainhelp.activity_GpFood
 ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:62:9-64:40
 	android:exported
 		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:64:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:63:13-47
-activity#com.example.elainhelp.MainActivity
-ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:65:9-73:20
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:63:13-44
+activity#com.example.elainhelp.activity_GpNails
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:65:9-67:40
 	android:exported
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:67:13-36
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:67:13-37
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:66:13-41
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:66:13-45
+activity#com.example.elainhelp.activity_guineapig
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:68:9-70:40
+	android:exported
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:69:13-47
+activity#com.example.elainhelp.MainActivity
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:71:9-79:20
+	android:exported
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:72:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:68:13-72:29
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:74:13-78:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:69:17-69
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:75:17-69
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:69:25-66
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:75:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:71:17-77
+ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:77:17-77
 	android:name
-		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:71:27-74
+		ADDED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:77:27-74
 uses-sdk
 INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\mil_l\Documents\pro\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml

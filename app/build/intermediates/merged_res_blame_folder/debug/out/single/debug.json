@@ -36,6 +36,14 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-anydpi\\language.xml"
     },
     {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_juttelevamarsu.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\juttelevamarsu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_soundbutton.png.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\soundbutton.png"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_4.png.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_4.png"
     },
@@ -44,8 +52,20 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-hdpi\\menubutton.png"
     },
     {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_gpsounds.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gpsounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_cat_sounds.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_cat_sounds.xml"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_dog_fur.PNG.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\dog_fur.PNG"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_kissameow.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\kissameow.mp3"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_angrydog.mp3.flat",
@@ -62,6 +82,10 @@
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_kissamurina.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\kissamurina.mp3"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_puuhamatto.PNG.flat",
@@ -86,6 +110,10 @@
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_kissapurr.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\kissapurr.mp3"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_exercise.xml.flat",
@@ -176,6 +204,10 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_dog_sounds.xml"
     },
     {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_wheekmarsu.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\wheekmarsu.mp3"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -216,6 +248,10 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-xhdpi\\menubutton.png"
     },
     {
+        "merged": "com.example.elainhelp.app-merged_res-30:/layout_activity_dog_sounds.xml.flat",
+        "source": "com.example.elainhelp.app-main-32:/layout/activity_dog_sounds.xml"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\xml\\data_extraction_rules.xml"
     },
@@ -228,6 +264,10 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_environment_cat.xml"
     },
     {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_kissasahina.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\kissasahina.mp3"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\xml\\backup_rules.xml"
     },
@@ -236,12 +276,24 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable-mdpi\\menubutton.png"
     },
     {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_pelastynytmarsu.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\pelastynytmarsu.mp3"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_vihainenmarsu.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\vihainenmarsu.mp3"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_img_1.png.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_koiraulvonta.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\koiraulvonta.mp3"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_grooming.xml.flat",
@@ -268,8 +320,8 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gp_housing.xml"
     },
     {
-        "merged": "com.example.elainhelp.app-merged_res-30:/layout_activity_guineapig.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/layout/activity_guineapig.xml"
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\raw_koiravinku.mp3.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\raw\\koiravinku.mp3"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_guineapig.xml.flat",

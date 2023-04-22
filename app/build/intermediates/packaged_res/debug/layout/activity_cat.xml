@@ -24,7 +24,7 @@
             app:layout_constraintHorizontal_bias="0.954"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/img_12" />
+            app:srcCompat="@drawable/soundbutton" />
 
         <Button
             android:id="@+id/buMenuCat"

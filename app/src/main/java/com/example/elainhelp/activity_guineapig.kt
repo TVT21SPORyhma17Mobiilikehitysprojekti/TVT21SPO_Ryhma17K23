@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.ImageView
 
 class activity_guineapig : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -14,6 +15,7 @@ class activity_guineapig : AppCompatActivity() {
         val buFoodGP = findViewById<Button>(R.id.buFoodGP)
         val buHousingGP = findViewById<Button>(R.id.buHousingGP)
         val buToysGP = findViewById<Button>(R.id.buToysGP)
+        val buGPSound = findViewById<ImageView>(R.id.MarsuSoundImg)
         val buMenuGP = findViewById<Button>(R.id.buMenuGp)
 
         nailGpBtn.setOnClickListener {
@@ -31,6 +33,10 @@ class activity_guineapig : AppCompatActivity() {
         }
         buToysGP.setOnClickListener {
             val intent = Intent(this, ActivityGPToys::class.java)
+            startActivity(intent)
+        }
+        buGPSound.setOnClickListener {
+            val intent = Intent(this, ActivityGPSounds::class.java)
             startActivity(intent)
         }
         buMenuGP.setOnClickListener {
