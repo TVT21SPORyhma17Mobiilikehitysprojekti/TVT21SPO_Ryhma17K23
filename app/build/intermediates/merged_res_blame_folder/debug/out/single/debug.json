@@ -4,6 +4,10 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\dogfur.PNG"
     },
     {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_gptoys.xml.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gptoys.xml"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_menu.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_menu.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_puuhamatto.PNG.flat",
+        "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\puuhamatto.PNG"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_dog_social.xml.flat",
@@ -260,6 +268,10 @@
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_gp_housing.xml"
     },
     {
+        "merged": "com.example.elainhelp.app-merged_res-30:/layout_activity_guineapig.xml.flat",
+        "source": "com.example.elainhelp.app-main-32:/layout/activity_guineapig.xml"
+    },
+    {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\layout_activity_guineapig.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\layout\\activity_guineapig.xml"
     },
@@ -274,10 +286,6 @@
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable_rounded_corners.xml.flat",
         "source": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-main-32:\\drawable\\rounded_corners.xml"
-    },
-    {
-        "merged": "com.example.elainhelp.app-merged_res-30:/layout_activity_environment_cat.xml.flat",
-        "source": "com.example.elainhelp.app-main-32:/layout/activity_environment_cat.xml"
     },
     {
         "merged": "C:\\Users\\mil_l\\.gradle\\daemon\\7.5\\com.example.elainhelp.app-merged_res-30:\\drawable-anydpi_theme.xml.flat",
