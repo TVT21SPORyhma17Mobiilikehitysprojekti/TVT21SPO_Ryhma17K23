@@ -22,18 +22,17 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/koiraSosiaalisuusTv3"
+        android:id="@+id/dogGrooming"
         android:layout_width="371dp"
         android:layout_height="412dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="8dp"
         android:background="@drawable/rounded_corners"
         android:fontFamily="sans-serif-light"
-        android:text="Hoitoon kuuluu turkin harjaaminen, kynsien leikkaaminen, korvien puhdistaminen, hammashoito ja tarvittaessa kylvyt. Turkin säännöllinen hoito auttaa pitämään sen terveenä sekä kiiltävänä ja vähentää ihoinfektioiden riskiä. Rodusta ja koiran turkin pituudesta riippuen saatat joutua hoitamaan turkkia joka päivä, muutaman päivän välein tai kerran viikossa. Harjaus on olennainen osa, sillä se poistaa turkista likaa, kuolleita karvoja ja takkuja. Käytä koirasi turkkityypille sopivaa harjaa. Pesulla käytä koiralle tarkoitettua shampoota ja huuhtele koirasi huolellisesti. Kynsien leikkaaminen on tärkeää, jotta kynnet eivät kasvaisi liian pitkiksi, sillä ne voivat aiheuttaa terveysongelmia ja epämukavuutta. Korvien puhdistaminen on myös tärkeää, sillä se auttaa estämään infektioita. Käytä koirakohtaista korvanpuhdistusainetta ja vältä pumpulipuikkojen käyttöä."
+        android:text="Hoitoon kuuluu turkin harjaaminen, kynsien leikkaaminen, korvien puhdistaminen, hammashoito ja tarvittaessa kylvyt. Turkin säännöllinen hoito sekä korvien puhdistaminen ovat tärkeitä, sillä ne ehkäisevät ihoinfektioita.Käytä koirakohtaista korvanpuhdistusainetta ja vältä pumpulipuikkojen käyttöä. Rodusta ja koiran turkin pituudesta riippuen saatat joutua hoitamaan turkkia joka päivä, muutaman päivän välein tai kerran viikossa. Harjaaminen poistaa turkista likaa, kuolleita karvoja ja takkuja. Käytä koirasi turkkityypille sopivaa harjaa. Pesulla käytä koiralle tarkoitettua shampoota ja huuhtele koirasi huolellisesti. Kynsien leikkaaminen on tärkeää, jotta kynnet eivät kasvaisi liian pitkiksi, sillä ne aiheuttavat terveysongelmia ja epämukavuutta. "
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.6"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 

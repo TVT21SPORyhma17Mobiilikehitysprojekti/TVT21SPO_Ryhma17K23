@@ -27,6 +27,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.Elainhelp" >
         <activity
+            android:name="com.example.elainhelp.ActivityEnvironmentCat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.activity_DogSounds"
+            android:exported="false" />
+        <activity
             android:name="com.example.elainhelp.activity_dog_grooming"
             android:exported="false" />
         <activity
