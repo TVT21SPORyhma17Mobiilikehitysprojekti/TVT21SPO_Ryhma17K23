@@ -14,7 +14,7 @@
         android:layout_marginTop="12dp"
         android:background="@drawable/rounded_corners"
         android:drawableRight="@drawable/menubutton"
-        android:text="Valikko"
+        android:text="@string/menu_dog_valikko"
         android:textColor="#000000"
         app:iconTint="#000000"
         app:layout_constraintEnd_toEndOf="parent"
@@ -29,7 +29,7 @@
 
         android:layout_marginTop="20dp"
         android:background="@drawable/rounded_corners"
-        android:text="Turkki ja hoito"
+        android:text="@string/menu_dog_turkki"
         android:textAllCaps="false"
         android:textColor="#000000"
         app:iconTint="#000000"
@@ -45,7 +45,7 @@
 
         android:layout_marginTop="20dp"
         android:background="@drawable/rounded_corners"
-        android:text="Koulutus ja sosiaalisuus"
+        android:text="@string/menu_dog_koulutus"
         android:textAllCaps="false"
         android:textColor="#000000"
         app:iconTint="#000000"
@@ -60,7 +60,7 @@
         android:layout_marginTop="20dp"
 
         android:background="@drawable/rounded_corners"
-        android:text="Liikunta"
+        android:text="@string/menu_dog_liikunta"
         android:textAllCaps="false"
         android:textColor="#000000"
         app:iconTint="#000000"
@@ -76,7 +76,7 @@
         android:layout_marginTop="20dp"
 
         android:background="@drawable/rounded_corners"
-        android:text="Ruokinta"
+        android:text="@string/menu_dog_ruokinta"
         android:textAllCaps="false"
         android:textColor="#000000"
         app:iconTint="#000000"
@@ -90,7 +90,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
-        android:text="Koirat"
+        android:text="@string/menu_dog_otsikko"
         android:textColor="#3ADAE4"
         android:textSize="30sp"
         android:textStyle="italic"

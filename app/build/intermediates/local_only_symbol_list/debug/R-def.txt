@@ -25,6 +25,7 @@ drawable jade_edited3
 drawable kissa
 drawable koira
 drawable language
+drawable maps
 drawable marsu
 drawable menubutton
 drawable puuhamatto
@@ -95,6 +96,8 @@ id koiraLiikuntaTv
 id koiraRuokintaTv
 id koiraSosiaalisuusOtsikkoTv
 id koiraSosiaalisuusTv
+id map
+id maps
 id marsuAsuminenTv
 id marsuRuokintaImg
 id marsuRuokintaOtsikkoTv
@@ -120,6 +123,7 @@ layout activity_gp_nails
 layout activity_gptoys
 layout activity_guineapig
 layout activity_main
+layout activity_map
 layout activity_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
