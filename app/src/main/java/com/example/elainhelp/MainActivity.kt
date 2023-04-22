@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.ImageButton
+import android.widget.ImageView
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -14,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         val guineapig = findViewById<ImageButton>(R.id.guineapigIB)
         val dog = findViewById<ImageButton>(R.id.dogIB)
         val cat = findViewById<ImageButton>(R.id.catIB)
+        val map = findViewById<ImageView>(R.id.maps)
 
         guineapig.setOnClickListener {
             val intent = Intent(this, activity_guineapig::class.java)
@@ -25,6 +27,10 @@ class MainActivity : AppCompatActivity() {
         }
         cat.setOnClickListener {
             val intent = Intent(this, activity_cat::class.java)
+            startActivity(intent)
+        }
+        map.setOnClickListener {
+            val intent = Intent(this, MapsMarkerActivity::class.java)
             startActivity(intent)
         }
     }
