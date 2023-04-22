@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/kissaRuokintaTv"
-        android:layout_width="365dp"
-        android:layout_height="360dp"
+        android:layout_width="359dp"
+        android:layout_height="327dp"
         android:layout_marginTop="32dp"
         android:background="@drawable/rounded_corners"
         android:fontFamily="sans-serif-light"
