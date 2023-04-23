@@ -62,4 +62,6 @@
     <string name="maukuminen">Maukuminen</string>
     <string name="kehrays">Kehrääminen</string>
     <string name="sahina">Sähiseminen</string>
+    <string name="termsTv">Tietosuojakäyntäntö</string>
+    <string name="termsPoliciesTv">EläinHelppi ei vaadi rekisteröitymistä, eikä se kerää henkilötietoja. EläinHelppi ei käytä asiakkaiden sijaintia muihin tarkoituksiin, kuin paikallistamaan lähimmät eläinlääkäriasemat. EläinHelppi sitoutuu käsittelemään paikallistamisominaisuuksia huolellisesti ja tietoturvallisesti tietosuojalainsäädännön mukaisesti. EläinHelppi sitoutuu päivittämään sovellukseen ajantasaiset tietoturvapäivitykset.</string>
 </resources>

@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Elainhelp"
         tools:targetApi="31">
         <activity
+            android:name=".ActivityTerms"
+            android:exported="false" />
+        <activity
             android:name=".ActivityGPSounds"
             android:exported="false" />
         <activity

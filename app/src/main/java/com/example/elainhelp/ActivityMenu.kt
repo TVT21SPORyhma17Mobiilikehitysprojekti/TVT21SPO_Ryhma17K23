@@ -12,6 +12,7 @@ class ActivityMenu : AppCompatActivity() {
         setContentView(R.layout.activity_menu)
 
         val changeLanguageButton = findViewById<Button>(R.id.buLanguage)
+        val termsBtn = findViewById<Button>(R.id.buTerms)
         changeLanguageButton.setOnClickListener {
             val locale = Locale("en")
             Locale.setDefault(locale)
@@ -25,6 +26,11 @@ class ActivityMenu : AppCompatActivity() {
 
         buScreen.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
+        }
+
+        termsBtn.setOnClickListener {
+            val intent = Intent(this, ActivityTerms::class.java)
             startActivity(intent)
         }
     }
