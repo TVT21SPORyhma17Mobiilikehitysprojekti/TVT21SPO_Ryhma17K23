@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         val guineapig = findViewById<ImageButton>(R.id.guineapigIB)
         val dog = findViewById<ImageButton>(R.id.dogIB)
         val cat = findViewById<ImageButton>(R.id.catIB)
+        val settings = findViewById<ImageView>(R.id.settingsImg)
         val map = findViewById<ImageView>(R.id.maps)
 
         guineapig.setOnClickListener {
@@ -31,6 +32,10 @@ class MainActivity : AppCompatActivity() {
         }
         map.setOnClickListener {
             val intent = Intent(this, MapsMarkerActivity::class.java)
+            startActivity(intent)
+        }
+        settings.setOnClickListener {
+            val intent = Intent(this, ActivityMenu::class.java)
             startActivity(intent)
         }
     }

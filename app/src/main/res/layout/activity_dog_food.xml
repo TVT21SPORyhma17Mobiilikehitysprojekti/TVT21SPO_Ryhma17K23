@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/koiraRuokintaTv"
-        android:layout_width="374dp"
-        android:layout_height="430dp"
+        android:layout_width="370dp"
+        android:layout_height="375dp"
         android:layout_marginTop="15dp"
         android:background="@drawable/rounded_corners"
         android:fontFamily="sans-serif-light"
