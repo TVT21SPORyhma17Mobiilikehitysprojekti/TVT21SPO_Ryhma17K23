@@ -2,7 +2,7 @@
     <string name="app_name">elainhelp</string>
     <string name="menu_kieli">Kieli</string>
     <string name="menu_teema">Teema</string>
-    <string name="menu_tietosuoja">Tietosuojakäytäntö</string>
+    <string name="menu_tietosuoja">Tietosuojakäytänteet</string>
     <string name="menu_aloitus">Aloitusnäyttöön</string>
     <string name="main_info">Sovellus, joka auttaa lemmikkien omistajia. Apista löytää apua arkeen lemmikkien kanssa hädässä ja jokapäiväisissä tapahtumissa.</string>
     <string name="menu_gp_lelut">Aktivointi ja lelut</string>
