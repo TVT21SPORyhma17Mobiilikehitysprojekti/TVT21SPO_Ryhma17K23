@@ -3440,6 +3440,8 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id termsPoliciesTv
+id termsTv
 id terrain
 id text
 id text2
@@ -3631,6 +3633,7 @@ layout activity_guineapig
 layout activity_main
 layout activity_map
 layout activity_menu
+layout activity_terms
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3955,6 +3958,8 @@ string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
 string stop
+string termsPoliciesTv
+string termsTv
 string ulvominen
 string viha
 string vinkuminen

@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 meta-data#com.google.android.geo.API_KEY
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:21:9-23:47
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:24:9-26:47
 	android:value
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:23:13-44
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:26:13-44
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:22:13-58
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:25:13-58
 manifest
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\samik\.gradle\caches\transforms-3\5a823485f5f258862cc8663b103dc1a5\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha09] C:\Users\samik\.gradle\caches\transforms-3\d5cb088656001a90326a8409b1ea0705\transformed\constraintlayout-2.2.0-alpha09\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\samik\.gradle\caches\transforms-3\e66c0fd626062eb3a914493dc896ab0e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,27 +56,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samik\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samik\.gradle\caches\transforms-3\ff0bd215fc1df0755ecd71aa9237f8f9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samik\.gradle\caches\transforms-3\b604da12ec6d7d27b17bf0d393d58e26\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\samik\.gradle\caches\transforms-3\66357f406e45335bdedc221508bc2fbe\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
-INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
 	package
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-93:12
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:1-96:12
 		INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:5:5-91:19
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:5:5-94:19
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\samik\.gradle\caches\transforms-3\5a823485f5f258862cc8663b103dc1a5\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] C:\Users\samik\.gradle\caches\transforms-3\5a823485f5f258862cc8663b103dc1a5\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha09] C:\Users\samik\.gradle\caches\transforms-3\d5cb088656001a90326a8409b1ea0705\transformed\constraintlayout-2.2.0-alpha09\AndroidManifest.xml:7:5-20
@@ -119,150 +119,156 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samik\.gradle\cach
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:12:9-47
 	android:dataExtractionRules
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.elainhelp.ActivityGPSounds
+activity#com.example.elainhelp.ActivityTerms
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:15:13-45
-activity#com.example.elainhelp.ActivityCatSounds
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:15:13-42
+activity#com.example.elainhelp.ActivityGPSounds
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:18:13-46
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:18:13-45
+activity#com.example.elainhelp.ActivityCatSounds
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:21:13-46
 meta-data#com.google.android.gms.version
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:24:9-26:69
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:27:9-29:69
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\samik\.gradle\caches\transforms-3\32cb4d0f8dcd033bf04e179468b1a5ad\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\samik\.gradle\caches\transforms-3\32cb4d0f8dcd033bf04e179468b1a5ad\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:26:13-66
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:29:13-66
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:25:13-58
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:28:13-58
 activity#com.example.elainhelp.MapsMarkerActivity
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:28:9-30:40
-	android:exported
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:30:13-37
-	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:29:13-47
-activity#com.example.elainhelp.ActivityGPToys
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:32:13-43
-activity#com.example.elainhelp.ActivityEnvironmentCat
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:32:13-47
+activity#com.example.elainhelp.ActivityGPToys
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:34:9-36:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:35:13-51
-activity#com.example.elainhelp.activity_DogSounds
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:35:13-43
+activity#com.example.elainhelp.ActivityEnvironmentCat
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:37:9-39:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:38:13-47
-activity#com.example.elainhelp.activity_dog_grooming
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:38:13-51
+activity#com.example.elainhelp.activity_DogSounds
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:40:9-42:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:41:13-50
-activity#com.example.elainhelp.ActivityMenu
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:41:13-47
+activity#com.example.elainhelp.activity_dog_grooming
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:43:9-45:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:44:13-41
-activity#com.example.elainhelp.activity_CatSocial
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:44:13-50
+activity#com.example.elainhelp.ActivityMenu
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:46:9-48:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:48:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:47:13-47
-activity#com.example.elainhelp.activity_CatTeethClaws
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:47:13-41
+activity#com.example.elainhelp.activity_CatSocial
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:49:9-51:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:50:13-51
-activity#com.example.elainhelp.activity_CatFood
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:50:13-47
+activity#com.example.elainhelp.activity_CatTeethClaws
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:52:9-54:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:54:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:53:13-45
-activity#com.example.elainhelp.activity_DogSocial
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:53:13-51
+activity#com.example.elainhelp.activity_CatFood
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:55:9-57:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:57:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:56:13-47
-activity#com.example.elainhelp.activity_DogExercise
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:56:13-45
+activity#com.example.elainhelp.activity_DogSocial
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:58:9-60:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:60:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:59:13-49
-activity#com.example.elainhelp.activity_DogFood
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:59:13-47
+activity#com.example.elainhelp.activity_DogExercise
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:61:9-63:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:62:13-45
-activity#com.example.elainhelp.activity_cat
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:62:13-49
+activity#com.example.elainhelp.activity_DogFood
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:64:9-66:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:66:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:65:13-41
-activity#com.example.elainhelp.activity_dog
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:65:13-45
+activity#com.example.elainhelp.activity_cat
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:67:9-69:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:69:13-37
 	android:name
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:68:13-41
-activity#com.example.elainhelp.activity_GpHousing
+activity#com.example.elainhelp.activity_dog
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:70:9-72:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:72:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:71:13-47
-activity#com.example.elainhelp.activity_GpFood
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:71:13-41
+activity#com.example.elainhelp.activity_GpHousing
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:73:9-75:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:75:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:74:13-44
-activity#com.example.elainhelp.activity_GpNails
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:74:13-47
+activity#com.example.elainhelp.activity_GpFood
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:76:9-78:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:78:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:77:13-45
-activity#com.example.elainhelp.activity_guineapig
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:77:13-44
+activity#com.example.elainhelp.activity_GpNails
 ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:79:9-81:40
 	android:exported
 		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:81:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:80:13-47
-activity#com.example.elainhelp.MainActivity
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:82:9-90:20
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:80:13-45
+activity#com.example.elainhelp.activity_guineapig
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:82:9-84:40
 	android:exported
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:84:13-36
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:84:13-37
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:83:13-41
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:83:13-47
+activity#com.example.elainhelp.MainActivity
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:85:9-93:20
+	android:exported
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:87:13-36
+	android:name
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:86:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:85:13-89:29
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:88:13-92:29
 action#android.intent.action.MAIN
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:86:17-69
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:89:17-69
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:86:25-66
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:89:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:88:17-77
+ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:91:17-77
 	android:name
-		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:88:27-74
+		ADDED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml:91:27-74
 uses-sdk
 INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Other\Sami\OAMK\Projekti\TVT21SPO_Ryhma17K23\app\src\main\AndroidManifest.xml
