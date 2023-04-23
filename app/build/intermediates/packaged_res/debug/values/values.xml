@@ -64,6 +64,8 @@
     <string name="pelko">Pelko</string>
     <string name="sahina">Sähiseminen</string>
     <string name="stop">Pysäytä</string>
+    <string name="termsPoliciesTv">EläinHelppi ei vaadi rekisteröitymistä, eikä se kerää henkilötietoja. EläinHelppi ei käytä asiakkaiden sijaintia muihin tarkoituksiin, kuin paikallistamaan lähimmät eläinlääkäriasemat. EläinHelppi sitoutuu käsittelemään paikallistamisominaisuuksia huolellisesti ja tietoturvallisesti tietosuojalainsäädännön mukaisesti. EläinHelppi sitoutuu päivittämään sovellukseen ajantasaiset tietoturvapäivitykset.</string>
+    <string name="termsTv">Tietosuojakäyntäntö</string>
     <string name="ulvominen">Ulvominen</string>
     <string name="viha">Viha</string>
     <string name="vinkuminen">Vinkuminen</string>

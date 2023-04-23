@@ -41,6 +41,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Elainhelp" >
         <activity
+            android:name="com.example.elainhelp.ActivityTerms"
+            android:exported="false" />
+        <activity
             android:name="com.example.elainhelp.ActivityGPSounds"
             android:exported="false" />
         <activity

@@ -64,4 +64,6 @@
     <string name="maukuminen">Meowing</string>
     <string name="kehrays">Purring</string>
     <string name="sahina">Hiss</string>
+    <string name="termsTv">Privacy policy</string>
+    <string name="termsPoliciesTv">EläinHelppi does not require registration, and it does not collect personal data. EläinHelppi does not use the customers location for purposes other than locating the nearest vet clinics. EläinHelppi undertakes to process localization features carefully and securely in accordance with data protection legislation. EläinHelppi undertakes to update the application with up-to-date information security updates.</string>
 </resources>

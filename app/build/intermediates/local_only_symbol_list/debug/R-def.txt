@@ -115,6 +115,8 @@ id meowCat
 id murCat
 id purrCat
 id settingsImg
+id termsPoliciesTv
+id termsTv
 id textView
 id textView2
 id tvKissaOtsikko
@@ -141,6 +143,7 @@ layout activity_guineapig
 layout activity_main
 layout activity_map
 layout activity_menu
+layout activity_terms
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw angrydog
@@ -215,6 +218,8 @@ string muriseminen
 string pelko
 string sahina
 string stop
+string termsPoliciesTv
+string termsTv
 string ulvominen
 string viha
 string vinkuminen
