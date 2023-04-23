@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@color/tumma">
+    android:background="@color/background_color">
 
 
     <ImageView
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="110dp"
         android:text="ELÄINHELPPI"
-        android:textColor="#FFFFFF"
+        android:textColor="#3AD9E3"
         android:textSize="30sp"
         android:textStyle="bold|italic"
         app:layout_constraintEnd_toEndOf="parent"

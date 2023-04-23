@@ -4,4 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="tumma">#383838</color>
     <color name="turkoosi">#3ADAE4</color>
+
+    <color name="background_color">#EFEFEF</color>
+
+
 </resources>
