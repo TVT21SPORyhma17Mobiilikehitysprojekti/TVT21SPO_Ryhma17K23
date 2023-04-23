@@ -33,7 +33,7 @@
             android:layout_marginTop="12dp"
             android:background="@drawable/rounded_corners"
             android:drawableRight="@drawable/menubutton"
-            android:text="Valikko"
+            android:text="@string/menu_cat_valikko"
             android:textColor="#000000"
             app:iconTint="#000000"
             app:layout_constraintEnd_toEndOf="parent"
@@ -48,7 +48,7 @@
 
             android:layout_marginTop="20dp"
             android:background="@drawable/rounded_corners"
-            android:text="Ympäristö"
+            android:text="@string/menu_cat_ymparisto"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
@@ -64,7 +64,7 @@
 
             android:layout_marginTop="20dp"
             android:background="@drawable/rounded_corners"
-            android:text="Liikunta"
+            android:text="@string/menu_cat_liikunta"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
@@ -79,7 +79,7 @@
             android:layout_marginTop="20dp"
 
             android:background="@drawable/rounded_corners"
-            android:text="Turkki ja hoito"
+            android:text="@string/menu_cat_turkki"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
@@ -95,7 +95,7 @@
 
             android:layout_marginTop="20dp"
             android:background="@drawable/rounded_corners"
-            android:text="Ravitsemus"
+            android:text="@string/menu_cat_ravitsemus"
             android:textAllCaps="false"
             android:textColor="#000000"
             app:iconTint="#000000"
@@ -109,7 +109,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="60dp"
-            android:text="Kissat"
+            android:text="@string/menu_cat_otsikko"
             android:textColor="#3ADAE4"
             android:textSize="30sp"
             android:textStyle="italic"
