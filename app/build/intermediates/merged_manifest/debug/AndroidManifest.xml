@@ -40,6 +40,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Elainhelp" >
+        <activity
+            android:name="com.example.elainhelp.ActivityGPSounds"
+            android:exported="false" />
+        <activity
+            android:name="com.example.elainhelp.ActivityCatSounds"
+            android:exported="false" />
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDOFmZMi3NseLXkjdKxwgXwznBu7RegImc" />

@@ -47,4 +47,19 @@
     <string name="cat_turkki_info">Säännöllinen hoito on tärkeää kissan turkille, ihon terveydelle ja yleiselle hygienialle. Harjaaminen auttaa poistamaan ylimääräiset karvat, ehkäisee takkuisuuta sekä levittää luonnollisia öljyjä. Pitkäkarvaiset kissat tulee harjata päivittäin, kun taas lyhytkarvaiset kissat voidaan harjata kerran tai kahdesti viikossa. Kissan kynsien leikkaaminen voi estää niitä naarmuttamasta huonekaluja. Käytä erityistä kissan kynsileikkuria ja varo leikkaamasta verikynttä. Useimmat kissat hoitavat itsensä eivätkä tarvitse toistuvia kylpyjä, mutta jos kissasi on likainen tai haisee, kylpy voi olla tarpeen. Käytä kissoille niille tarkoitettua kissashampoota ja huuhtele huolellisesti. </string>
     <string name="cat_ymparisto_otsikko">Ympäristö</string>
     <string name="cat_ymparisto_info">Turvallisen ja kannustavan ympäristön luominen kissallesi on tärkeää. Ne ovat uteliaita ja rakastavat tutkimista, joten varmista, että niiden ympäristö on turvallinen ja tarpeeksi suuri. Kissoilla on vaisto raapimiseen, joten kissoille on hyvä tarjota esim. raapimispuu. Tämä auttaa myös ehkäisemään huonekalujen raapimista. Kissoille täytyy tarjota leikkiaikaa ja leluja, sillä ne auttavat pitämään kissat aktiivisina ja ehkäisemään tylsistyneisyyttä. Kissat ovat puhtaita eläimiä ja tarvitsevat kissanhiekkalaatikon joka on helposti saatavilla.</string>
+    <string name="stop">Pysäytä</string>
+    <string name="kuikutus">Kuikutus</string>
+    <string name="viha">Viha</string>
+    <string name="juttelu">Juttelu</string>
+    <string name="pelko">Pelko</string>
+    <string name="haukkuminen">Haukkuminen</string>
+    <string name="vinkuminen">Vinkuminen</string>
+    <string name="ulvominen">Ulvominen</string>
+    <string name="dog_viha">Viha</string>
+    <string name="dog_stop">Pysäytä</string>
+    <string name="cat_stop">Pysäytä</string>
+    <string name="muriseminen">Muriseminen</string>
+    <string name="maukuminen">Maukuminen</string>
+    <string name="kehrays">Kehrääminen</string>
+    <string name="sahina">Sähiseminen</string>
 </resources>
