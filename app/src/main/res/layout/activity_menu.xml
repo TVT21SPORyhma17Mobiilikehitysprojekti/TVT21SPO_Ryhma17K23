@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/background_color"
+    tools:context=".ActivityMenu">
+
+    <Button
+        android:id="@+id/buLanguage"
+        android:layout_width="140dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="188dp"
+        android:background="@drawable/rounded_corners"
+        android:drawableLeft="@drawable/language"
+        android:text="@string/menu_kieli"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buTheme"
+        android:layout_width="131dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/rounded_corners"
+        android:drawableLeft="@drawable/theme"
+        android:text="@string/menu_teema"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buLanguage" />
+
+    <Button
+        android:id="@+id/buTerms"
+        android:layout_width="242dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/rounded_corners"
+        android:drawableLeft="@drawable/terms"
+        android:text="@string/menu_tietosuoja"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buTheme"
+
+        />
+
+    <Button
+        android:id="@+id/buScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/rounded_corners"
+        android:text="@string/menu_aloitus"
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buTerms" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

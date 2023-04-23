@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".activity_dog">
+
+    <Button
+        android:id="@+id/buMenuDog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/rounded_corners"
+        android:drawableRight="@drawable/menubutton"
+        android:text="@string/menu_dog_valikko"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buGroomingDog" />
+
+    <Button
+        android:id="@+id/buGroomingDog"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_corners"
+        android:text="@string/menu_dog_turkki"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buSocialDog" />
+
+    <Button
+        android:id="@+id/buSocialDog"
+        android:layout_width="240dp"
+        android:layout_height="49dp"
+
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_corners"
+        android:text="@string/menu_dog_koulutus"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buExerciseDog" />
+
+    <Button
+        android:id="@+id/buExerciseDog"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+
+        android:background="@drawable/rounded_corners"
+        android:text="@string/menu_dog_liikunta"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buFeedingDog" />
+
+    <Button
+        android:id="@+id/buFeedingDog"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+
+        android:background="@drawable/rounded_corners"
+        android:text="@string/menu_dog_ruokinta"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        app:iconTint="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/KoiraImageView" />
+
+    <TextView
+        android:id="@+id/tvKissaOtsikko"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="@string/menu_dog_otsikko"
+        android:textColor="#3ADAE4"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/KoiraImageView"
+        android:layout_width="234dp"
+        android:layout_height="228dp"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvKissaOtsikko"
+        app:srcCompat="@drawable/img_3" />
+
+    <ImageView
+        android:id="@+id/KoiraSoundImg"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="15dp"
+        android:background="#3AD9E3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img_12" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

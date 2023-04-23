@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3C3F41"
+    tools:context=".activity_DogSocial">
+
+    <TextView
+        android:id="@+id/koiraSosiaalisuusTv"
+        android:layout_width="374dp"
+        android:layout_height="389dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/dog_koulutus_info"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/KoiraSosiaalinenImg" />
+
+    <TextView
+        android:id="@+id/koiraSosiaalisuusOtsikkoTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/dog_koulutus_otsikko"
+        android:textColor="#3ADAE4"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/KoiraSosiaalinenImg"
+        android:layout_width="283dp"
+        android:layout_height="169dp"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/koiraSosiaalisuusOtsikkoTv"
+        app:srcCompat="@drawable/img_8" />
+</androidx.constraintlayout.widget.ConstraintLayout>

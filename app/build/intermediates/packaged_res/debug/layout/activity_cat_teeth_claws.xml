@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tumma"
+    tools:context=".activity_CatTeethClaws">
+
+    <TextView
+        android:id="@+id/kissaHampaatTv"
+        android:layout_width="362dp"
+        android:layout_height="327dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/cat_turkki_info"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/KissaHampaatImg" />
+
+    <TextView
+        android:id="@+id/kissaTeethOtsikkoTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/cat_turkki_otsikko"
+        android:textColor="#3ADAE4"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/KissaHampaatImg"
+        android:layout_width="320dp"
+        android:layout_height="220dp"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kissaTeethOtsikkoTv"
+        app:srcCompat="@drawable/img_10" />
+</androidx.constraintlayout.widget.ConstraintLayout>
